@@ -1,0 +1,4 @@
+hola
+este fichero
+tiene
+4 lineas
